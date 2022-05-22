@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.example.helloworld.R;
+
 public class MainActivity extends AppCompatActivity {
     EditText username, password;
     Button btn_login;
